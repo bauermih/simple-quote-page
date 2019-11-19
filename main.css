@@ -152,10 +152,15 @@ body {
     color: #333;
 }
 
+.flags {
+    padding-top: 0rem;
+    padding-left: 90%;
+}
+
 .wrapper {
-    padding-top: 10rem;
+    padding-top: 5%;
     width: 90%;
-    margin: 0 auto;
+    margin: 5% auto;
     text-align: center;
 }
 
